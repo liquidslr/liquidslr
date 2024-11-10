@@ -18,6 +18,6 @@ const about = {
 }
 ```
 
-<b>I I love connecting with different people</b> just say <b>hi, I'll be happy to connect</b> :)</em>
+<b>I love connecting with different people</b> just say <b>hi, I'll be happy to connect</b> :)</em>
 
 ---
